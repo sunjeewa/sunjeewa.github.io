@@ -1,24 +1,33 @@
----
-layout: home
----
-
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.59">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <title> | the sun cloud blog</title><meta name="description" content="Just playing around">
+    <link rel="preload" href="/assets/style-3317e074.css" as="style"><link rel="stylesheet" href="/assets/style-3317e074.css">
+    <link rel="modulepreload" href="/assets/app-7a3b2d89.js"><link rel="modulepreload" href="/assets/framework-8fa3e4ce.js"><link rel="modulepreload" href="/assets/404.html-91dc2652.js"><link rel="modulepreload" href="/assets/404.html-60b35caa.js"><link rel="prefetch" href="/assets/index.html-52a80e64.js" as="script"><link rel="prefetch" href="/assets/index.html-c5e61590.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>Looks like we&#39;ve got some broken links.</blockquote><a href="/" class="">Take me home</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/assets/app-7a3b2d89.js" defer></script>
+  </body>
+</html>
