@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="106.34908mm"
+   height="53.256203mm"
+   viewBox="0 0 106.34908 53.256203"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-11.077993,-104.75141)">
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1.516;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
+       id="rect4743"
+       width="104.83307"
+       height="51.740196"
+       x="11.835992"
+       y="105.50941" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:1.516;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
+       x="15.518171"
+       y="143.72276"
+       id="text4689"><tspan
+         id="tspan4687"
+         style="font-size:50.8px;fill:#ececec;stroke-width:1.516"
+         x="15.518171"
+         y="143.72276">STL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;fill-opacity:1;stroke:#c1c1c1;stroke-width:1.516;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="22.99564"
+       y="152.85338"
+       id="text4481"><tspan
+         id="tspan4479"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.516;stroke-opacity:0"
+         x="22.99564"
+         y="152.85338">Sanjeewa's Tech Log</tspan></text>
+  </g>
+</svg>
